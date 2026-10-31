@@ -1,5 +1,5 @@
 clear
-Write-Host ("FunSky Checker") -ForegroundColor Cyan
+Write-Host ("FunTime Checker") -ForegroundColor Cyan
 
 $folderPath1 = "C:\Windows\Temp"
 $folderPath2 = "C:\"
